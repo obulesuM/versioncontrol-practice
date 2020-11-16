@@ -1,1 +1,2 @@
-print('molakani obulesu')
+print('molakani obulesu');
+print('680333');
